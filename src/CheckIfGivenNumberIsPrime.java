@@ -1,4 +1,5 @@
 //notes
+//notes
 import java.util.Scanner;
 
 public class CheckIfGivenNumberIsPrime {
@@ -24,7 +25,6 @@ public class CheckIfGivenNumberIsPrime {
         System.out.println("enter a number: ");
         Scanner sc=new Scanner(System.in);
         int numberToCheck=sc.nextInt();
-        boolean isPrime=isPrime(numberToCheck);
         if(isPrime(numberToCheck))
         {
             System.out.println("prime number");
