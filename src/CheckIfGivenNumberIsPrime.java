@@ -1,3 +1,4 @@
+//notes
 import java.util.Scanner;
 
 public class CheckIfGivenNumberIsPrime {
