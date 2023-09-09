@@ -13,7 +13,7 @@ public class CheckIfAStringIsPalindrome {
         }
         return true;
     }
-
+//notes
     public static void main(String[] args) {
         System.out.println("enter a string: ");
         Scanner sc = new Scanner(System.in);
